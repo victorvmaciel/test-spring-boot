@@ -15,13 +15,12 @@ decidiu automatizar esse processo.
 
 # Premissas
 
-• Dar permissão ao Jenkins par que possua os devidos acessos ao registry de imagens Docker e ao
+  - Dar permissão ao Jenkins par que possua os devidos acessos ao registry de imagens Docker e ao
 Kubernete. Por enquanto, dispensar a autenticação nesses ambientes;
-• Considerar que qualquer imagem com a tag no formato tecnobooks/<app-name>:<version>
+  - Considerar que qualquer imagem com a tag no formato tecnobooks/<app-name>:<version>
 será publicada no registry correto;
-• Pode-se utilizar o helm e, se for esse o caso, 
-• Considerar a implantação apenas em ambiente de desenvolvimento. Futuramente implantar em teste, homologação e produção.
-
+  - Pode-se utilizar o helm e, se for esse o caso, 
+  - Considerar a implantação apenas em ambiente de desenvolvimento. Futuramente implantar em teste, homologação e produção.
 
 # Jenkins no Google Kubernetes Engine
 
