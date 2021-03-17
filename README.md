@@ -40,3 +40,7 @@ será publicada no registry correto;
 
 ![image](https://user-images.githubusercontent.com/22057957/111410051-c871c080-86b6-11eb-9ddf-9bd6fae05c9c.png)
 
+# Dados da máquina no Googlecloud
+
+O Jenkins está roandando no endereço: http://35.199.64.97:8080/login?from=%2F
+
