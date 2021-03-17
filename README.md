@@ -22,6 +22,10 @@ será publicada no registry correto;
   - Pode-se utilizar o helm e, se for esse o caso, 
   - Considerar a implantação apenas em ambiente de desenvolvimento. Futuramente implantar em teste, homologação e produção.
 
+![image](https://user-images.githubusercontent.com/22057957/111466720-663ead00-8702-11eb-83b3-4ee1481e1a46.png)
+
+
+
 # Jenkins no Google Kubernetes Engine
 
 # Objetivos
