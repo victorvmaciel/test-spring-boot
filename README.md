@@ -16,7 +16,7 @@ decidiu automatizar esse processo.
 
 # Premissas
 
-  - Dar permissão ao Jenkins par que possua os devidos acessos ao registry de imagens Docker e ao
+  - Dar permissão ao Jenkins para que possua os devidos acessos ao registry de imagens Docker e ao
 Kubernetes. Por enquanto, dispensar a autenticação nesses ambientes;
   - Considerar que qualquer imagem com a tag no formato tecnobooks/<app-name>:<version>
 será publicada no registry correto;
