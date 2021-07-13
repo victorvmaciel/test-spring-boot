@@ -1,6 +1,7 @@
 # test-spring-boot using GKE
 
 # O Contexto
+
 A Tecnobooks é um Market Place de livros de tecnologia (fictícia) onde escritores independentes
 conseguem fazer suas publicações de forma rápida e barata e leitores interessados nesse tema
 encontram livros por preços acessíveis.
@@ -16,7 +17,7 @@ decidiu automatizar esse processo.
 # Premissas
 
   - Dar permissão ao Jenkins par que possua os devidos acessos ao registry de imagens Docker e ao
-Kubernete. Por enquanto, dispensar a autenticação nesses ambientes;
+Kubernetes. Por enquanto, dispensar a autenticação nesses ambientes;
   - Considerar que qualquer imagem com a tag no formato tecnobooks/<app-name>:<version>
 será publicada no registry correto;
   - Pode-se utilizar o helm e, se for esse o caso, 
