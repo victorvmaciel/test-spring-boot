@@ -43,5 +43,5 @@ será publicada no registry correto;
 
 # Dados da máquina no Google Cloud
 
-O Jenkins está roandando no endereço: http://35.199.64.97:8080/login?from=%2F
+O Jenkins está executando no endereço: http://35.199.64.97:8080/login?from=%2F
 
